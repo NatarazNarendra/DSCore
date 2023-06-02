@@ -14,7 +14,6 @@ public class Testsset {
 		set.add(null);
 		set.add(3);
 		System.out.println(set);
-		
 		LinkedHashSet<Integer> lset=new LinkedHashSet<Integer>();
 		System.out.println("LinkedHashSet");
 		lset.add(5);
